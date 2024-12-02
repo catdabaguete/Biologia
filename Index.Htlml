@@ -1,1 +1,54 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>TITULO DA ABA</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <header><p><img id="TITULOIMAGEM" src=logo.jpeg" alt="DESCRICAO IMAGEM"></p>
+      <nav>
+        <ul id= "lista01">
+          <li><a target="_blank" href="index.html">Home</li>
+          <li><a target="_blank"
+href="http://www.consultaescolas.pr.gov.br/ ">Site do Colégio</li>
+          <li><a target="_blank"
+href="https://www.facebook.com/profile.php?id=100009582499964">Facebook</li></a>
+        </ul>
+      </nav>
+    </header>
+ <main>
+  <h1>trabalho de quimica Vinicius N36</h1>
+   <div class="PRIMEIROPARAGRAFO">
+   <h3>Trabalho de quimica vinicius 1B N36</h3>
+   <p><i><b>Equilibro Quimico</b></i></p>
+   <ul id="lista02">
+     <li>equilibrio químico é. um fenômeno que ocorre em reações
+químicas reversíveis, onde a velocidade da reação direta
+(formação de produtos) é igual.à velocidade da reação
+nversa (formação.de reagentes)</li>
+     <li>Condições para o equilíbrio químico
+◦ Sistema fechado: Não há troca de matéria com 0
+ambiente.
+Temperatura constante: A temperatura do sistema
+deve ser mantida constante</li>
+     <li>Fatores que afetam o equilíbrio químico:
+Concentração: Alterações na concentração dos reagentes ou produtos podem deslocar o equilíbrio.
+Temperatura: Mudanças na temperatura podem afetar a posição do equilíbrio.
+Pressão: Em sistemas gasosos, mudanças na pressão podem deslocar o equilíbrio.
+Catalisadores: Podem acelerar a velocidade com que o equilíbrio é atingido, mas não alteram a posição do equilíbrio</li>
+<li>equilibrio quimico constante A constante de equilíbrio, ( K ), é uma medida da posição do equilíbrio e é definida em termos das concentrações dos reagentes e produtos. Para a reação genérica:
+aA+bB⇌cC+dD
+A constante de equilíbrio é expressa como:
+Kc​=[A]a[B]b[C]c[D]d​
+Onde ( [A] ), ( [B] ), ( [C] ) e ( [D] ) são as concentrações molares das substâncias respectivas, e ( a ), ( b ), ( c ) e ( d ) são seus coeficientes estequiométricos</li>     
+    </ul>
+    </div>
+   <h1>***</h1>
+ </main>
+ <footer><p><img id="TITULOIMAGEM" src="logo.jpeg" alt="DESCRICAO IMAGEM"></p></footer>
+</body>
+</html>
